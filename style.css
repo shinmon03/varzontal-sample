@@ -1,0 +1,58 @@
+body {
+	background-image: url(verzontal.jpg);
+	background-size: 100%;
+	margin-left: 100px;
+	margin-right: 100px;
+	
+}
+.logo{
+	margin-top: 75px;
+	margin-left: 150px;
+	margin-bottom:  20px;
+}
+.name{
+	font-size: 40px;
+	letter-spacing: 15px;
+	font-family: arial;
+	font-weight: bold;
+	color: #1dc70f;
+	margin-left: 100px;
+    text-shadow: 2px 2px black;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.inquiry{
+	font-family: arial;
+	font-weight: bold;
+	color: white;
+	float: right;
+	margin-right: 100px;
+	margin-top: 50px
+
+}
+.subname{
+	font-size: 20px;
+	letter-spacing: 15px;
+	font-family: arial;
+	font-weight: bold;
+	color: #0B61EE;
+	margin-left: 100px;
+    text-shadow: 2px 2px black;
+
+
+}
+.footer{
+	background-color: #00FF00;
+text-align: center;
+	padding: 0px;
+	position: absolute;
+	right: 0;
+	left: 0;
+	bottom: 0;
+	font-size: 15px;
+}
+.QR{
+	float: right;
+	margin-top: 100px;
+	margin-right: 130px;
+}
